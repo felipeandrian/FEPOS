@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="fepos.png" alt="FEP OS" width="120">
+  <img src="fepos.png" alt="FEP OS" width="720">
 </div>
 
 # 🚀 FEP OS: Um Sistema Operacional Monolítico em Assembly x86 (16-bit)
