@@ -1,4 +1,4 @@
-; Boot Sector for SUPEROS (FAT12 format)
+; Boot Sector for FEPOS (FAT12 format)
 ; Assembled with NASM: origin set to 0x7C00, 16-bit mode.
 
 ORG 0x7C00           ; Indica que o BIOS carrega o setor de boot em 0x7C00
